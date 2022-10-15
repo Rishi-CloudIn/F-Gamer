@@ -37,11 +37,11 @@ const Header = ({ data }) => {
                             <Logo />
                         </div>
                         <MainMenu allmenuData={data?.menu} />
-                        <div className="header-right-action flex items-center">
+                        <div className="header-right-action flex items-center mx-5">
                             <Button
                                 path="/login"
                                 shape="square2xl"
-                                className="text-white hidden xs:block"
+                                className="text-white hidden xs:block "
                             >
                                 SIGN UP
                                 <StaticImage
