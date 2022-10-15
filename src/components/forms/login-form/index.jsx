@@ -30,7 +30,7 @@ const LoginForm = () => {
     };
 
     const onError = (errors) => {
-        console.log(errors, alert("Enter all inputs :)"));
+        console.log(errors, alert("Enter all inputs"));
     };
 
     return (
