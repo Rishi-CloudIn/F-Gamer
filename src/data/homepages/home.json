@@ -8,12 +8,12 @@
             "headings": [
                 {
                     "level": "h1",
-                    "content": "BEST GAME PLAYING TODAY."
+                    "content": "PLAY & WIN"
                 }
             ],
             "texts": [
                 {
-                    "content": "Simply text of the printing and typesetting industry."
+                    "content": ""
                 }
             ],
             "buttons": [
@@ -21,7 +21,7 @@
                     "id": 1,
                     "size": "lg",
                     "path": "/contact-us",
-                    "content": "Play Now"
+                    "content": "START PLAYING"
                 }
             ]
         },
@@ -40,7 +40,7 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "LIVE STREAMING"
+                            "content": "PLAY"
                         }
                     ],
                     "images": [
@@ -53,14 +53,14 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "A huge collection of web and mobile games."
                 },
                 {
                     "id": "features-2",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME NEWS"
+                            "content": "WIN"
                         }
                     ],
                     "images": [
@@ -73,14 +73,14 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "Points and cash from playing and competing"
                 },
                 {
                     "id": "features-3",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "GAME TOURNAMENTS"
+                            "content": "EARN"
                         }
                     ],
                     "images": [
@@ -93,7 +93,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                    "description": "Your Wombucks or prize money from challenges."
                 }
             ]
         },
